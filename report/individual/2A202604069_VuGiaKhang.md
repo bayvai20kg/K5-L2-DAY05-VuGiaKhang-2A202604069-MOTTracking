@@ -9,10 +9,10 @@
 - **Họ tên:** Vũ Gia Khang
 - **MSSV:** 2A202604069
 - **Mã đề:** C
-- **Email:** (Điền email trường/cá nhân của bạn)
-- **Link repository:** https://github.com/VinUni-AI20k/K5-L2-DAY05-VuGiaKhang-2A202604069-MOTTracking
-- **Giờ bắt đầu:** 13:30
-- **Giờ kết thúc:** 18:30
+- **Email:** kvu7412@gmail.com
+- **Link repository:[** https://github.com/VinUni-AI20k/K5-L2-DAY05-VuGiaKhang-2A202604069-MOTTracking](https://github.com/bayvai20kg/K5-L2-DAY05-VuGiaKhang-2A202604069-MOTTracking)
+- **Giờ bắt đầu:** 16:50
+- **Giờ kết thúc:** 21:00
 
 ---
 
@@ -177,4 +177,4 @@ Số frame in theo CVAT (bắt đầu từ 0). Trong gt.txt, frame_id = frame CV
   * Hướng dẫn gán nhãn và cấu trúc dữ liệu MOTChallenge: [https://motchallenge.net/](https://motchallenge.net/).
   * Tài liệu hướng dẫn sử dụng CVAT: [https://docs.cvat.ai/](https://docs.cvat.ai/).
 * **Công cụ AI đã sử dụng:**
-  * Sử dụng trợ lý AI Antigravity để tra cứu khái niệm lý thuyết (Amodal Bounding Box, so sánh MOTA vs IDF1, cơ chế nội suy tuyến tính của CVAT), hỗ trợ phân tích mã lỗi khi chạy kiểm tra bằng script `check_submission.py` và chuẩn hóa cấu trúc báo cáo markdown theo đúng quy định trong `RULES.md`.
+  * Sử dụng trợ lý AI Antigravity để tra cứu khái niệm lý thuyết (Amodal Bounding Box, so sánh MOTA vs IDF1, cơ chế nội suy tuyến tính của CVAT), hỗ trợ phân tích mã lỗi khi chạy kiểm tra bằng script `check_submission.py`.
